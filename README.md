@@ -17,8 +17,9 @@ bal bval bla
   * bla bla bla
 ---------------------
 ## Costos
-Materoal | Costo | Tiempo
----------|-------|--------
-Laptop   |20000  |25hrs
-bla bla  |bla    |bla bla
+
+|Materoal|Costo|Tiempo|
+|--------|-----|--------|
+|Laptop  |20000|25hrs|
+|bla bla |bla  |bla bla|
 ---------------------------
